@@ -9,6 +9,7 @@
   "author": "Tony Hoang",
   "license": "ISC",
   "dependencies": {
+    "formidable": "^1.2.1",
     "q": "^1.5.1"
   }
 }
