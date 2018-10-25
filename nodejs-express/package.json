@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-namespace": "^0.1.1",
+    "htm_test_nodejs": "^1.0.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony hoang",
+  "license": "ISC"
+}
